@@ -16,3 +16,9 @@
 [submodule "_inc/modules/zzform"]
 	path = _inc/modules/zzform
 	url = https://github.com/koenige/zzform
+[submodule "www/_behaviour/vxjs"]
+	path = www/_behaviour/vxjs
+	url = https://github.com/Vectrex/vxJS
+[submodule "www/_behaviour/pagedown"]
+	path = www/_behaviour/pagedown
+	url = https://github.com/StackExchange/pagedown
