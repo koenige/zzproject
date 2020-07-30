@@ -1,0 +1,8 @@
+_cache
+_backup
+_inc/config.json
+_inc/custom/zzwrap_sql/pwd.json
+_logs
+_temp
+docs/sql/*-data.sql.gz
+files
