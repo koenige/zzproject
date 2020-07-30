@@ -7,3 +7,12 @@
 [submodule "_inc/library/markdown-extra"]
 	path = _inc/library/markdown-extra
 	url = https://github.com/michelf/php-markdown
+[submodule "_inc/modules/default"]
+	path = _inc/modules/default
+	url = https://github.com/koenige/modules-default
+[submodule "_inc/modules/media"]
+	path = _inc/modules/media
+	url = https://github.com/koenige/modules-media
+[submodule "_inc/modules/zzform"]
+	path = _inc/modules/zzform
+	url = https://github.com/koenige/zzform
